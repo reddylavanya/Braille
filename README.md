@@ -16,4 +16,5 @@ Introduction
 - The physical representation of those six bit characters with raised dots in braille cell.
 
 ## IMAGE
-![IMAGE]
+![IMAGE]https://github.com/reddylavanya/Braille/blob/master/alphavet.PNG?raw=true
+              
