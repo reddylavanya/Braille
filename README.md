@@ -2,7 +2,7 @@
 Introduction
 
 ## LINK
-[My repository link] (https://github.com/reddylavanya/Braille)
+- [My repository link] (https://github.com/reddylavanya/Braille)
 
 ## EXISTANCE
 1. It was developed by Louis Braille.
